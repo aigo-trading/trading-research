@@ -20,10 +20,8 @@
 
 ## 文章目录
 
-后续发布文章时，逐步在这里添加链接。
-
-## 关于作者
-
-周栩棋 | AIGO Trading
-
-探索 AI 辅助交易研究与工具开发。
+1. [我如何开展交易研究：观察、假设与验证](01-research-process.md)
+2. [大挂单撤了，能说明什么？](02-large-order-withdrawal.md)
+3. [交易观察记录模板：事实、解释、假设与验证](03-observation-template.md)
+4. [为什么交易研究不能只记录已经入场的交易？](04-events-and-trades.md)
+5. [把交易想法交给 AI 前，先把需求写清楚](05-ai-specification.md)
