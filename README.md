@@ -1,27 +1,21 @@
 # 周栩棋 · AIGO Trading
+
 ## 交易研究与学习笔记
 
-我是周栩棋，这里记录我对交易的思考、学习与研究过程。
-
-希望通过持续记录与验证，把零散的交易想法逐步整理为清晰、可检验的方法。
-
-## 分享内容
-
-- 交易观点：对市场结构、订单流与交易行为的思考
-- 学习笔记：交易方法、平台工具与技术资料的学习总结
-- 策略研究：交易假设、规则设计、测试过程与结果
-- AI 实践：探索 AI 在交易研究与工具开发中的应用
-
-## 阅读说明
-
-文章会尽量区分个人观点、待验证假设与测试结果，并注明适用条件及局限。随着认识深入，内容可能修订，修改历史保留在仓库中。
-
-内容用于学习交流，不构成个性化投资建议，也不承诺收益。
+这里记录我对交易的思考、学习与研究过程。文章保留观察依据、待核问题与后续修订，教学示例与真实结果分别说明。
 
 ## 文章目录
 
-1. [我如何开展交易研究：观察、假设与验证](01-research-process.md)
-2. [大挂单撤了，能说明什么？](02-large-order-withdrawal.md)
-3. [交易观察记录模板：事实、解释、假设与验证](03-observation-template.md)
-4. [为什么交易研究不能只记录已经入场的交易？](04-events-and-trades.md)
-5. [把交易想法交给 AI 前，先把需求写清楚](05-ai-specification.md)
+- [我如何开展交易研究：观察、假设与验证](01-research-process.md) · [图文 PDF](01-research-process.pdf)
+- [大挂单撤了，能说明什么？](02-large-order-withdrawal.md) · [图文 PDF](02-large-order-withdrawal.pdf)
+- [交易观察记录：事实、解释、假设与验证](03-observation-template.md) · [图文 PDF](03-observation-template.pdf)
+- [为什么不能只记录已经入场的交易？](04-events-and-trades.md) · [图文 PDF](04-events-and-trades.pdf)
+- [把交易想法交给 AI 前，先把需求写清楚](05-ai-specification.md) · [图文 PDF](05-ai-specification.pdf)
+
+## 关于作者
+
+周栩棋 | AIGO Trading
+
+探索 AI 辅助交易研究与工具开发。
+
+内容用于学习交流，不构成个性化投资建议，不承诺收益。
