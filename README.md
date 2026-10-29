@@ -11,6 +11,7 @@
 - [交易观察记录：事实、解释、假设与验证](03-observation-template.md) · [图文 PDF](03-observation-template.pdf)
 - [为什么不能只记录已经入场的交易？](04-events-and-trades.md) · [图文 PDF](04-events-and-trades.pdf)
 - [把交易想法交给 AI 前，先把需求写清楚](05-ai-specification.md) · [图文 PDF](05-ai-specification.pdf)
+- - [大周期看多，小周期却在下跌，我该听谁的？](06-multi-timeframe-decisions.md)
 
 ## 关于作者
 
