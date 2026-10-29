@@ -68,25 +68,6 @@ Turn the Framework into Testable Questions
 
 用一部分记录形成规则，再在未用于选择规则的时间段检验。尝试过哪些条件、改过多少版本也应保留。样本外表现不是永久有效的保证，但比围绕每段历史补一个解释更有检验意义。
 
-## 研究依据与适用边界
-Research References and Limits
-
-本文提出的是作者的多周期交易训练框架，未展示真实成交样本或组合回测，不能称为已被论文验证的完整策略。图形、数字与路径均为教学示意。
-
-[1] Moskowitz, Ooi & Pedersen (2012), Time Series Momentum。研究报告月度尺度的动量；不能直接推导分钟级反向交易有效。
-
-[2] Heston, Korajczyk & Sadka (2010), Intraday Patterns in the Cross-section of Stock Returns。其股票样本的日内模式不能直接推广为本框架的期货交易信号。
-
-[3] Baron & Hershey (1988), Outcome Bias in Decision Evaluation。提醒避免仅按结果评价过程；不是对漏做机会免责的依据。
-
-[4] Bailey et al. (2015 manuscript), The Probability of Backtest Overfitting。用于说明反复选择历史规则的过拟合风险，不证明本文策略盈利。
-
-## 参考资料
-
-1. [Moskowitz, Ooi & Pedersen (2012). Time Series Momentum. Journal of Financial Economics, 104(2), 228–250.](https://research.cbs.dk/en/publications/time-series-momentum/)
-2. [Heston, Korajczyk & Sadka (2010). Intraday Patterns in the Cross-section of Stock Returns. Journal of Finance, 65(4), 1369–1407.](https://arxiv.org/abs/1005.3535)
-3. [Baron & Hershey (1988). Outcome Bias in Decision Evaluation. Journal of Personality and Social Psychology, 54(4), 569–579.](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf)
-4. [Bailey, Borwein, López de Prado & Zhu (2015 manuscript). The Probability of Backtest Overfitting.](https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf)
 
 ---
 周栩棋 AIGO TRADING | 全球视野 微观结构
